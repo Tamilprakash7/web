@@ -1,0 +1,320 @@
+body {
+	width:95%;
+	background-image:url(4.jpg);
+
+background-size:100% 100%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+color:pink;
+margin:auto;
+}
+#con {
+	background-image:url(backgroundimagejpg);
+}
+	
+*{
+	color:pink;
+	font-style:times new roman;
+}
+	
+	header{
+		width:100%;
+		height:150px;
+	
+	display:flex;
+	background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.9);
+	}
+	#article2{
+		width:30%;
+		height:140px;
+	}
+	#article2 h4 {
+	padding-bottom:10px;
+	
+	}
+	
+	header img{
+		width:90%;
+		height:140px;
+		margin:auto;
+		padding-left:120px;
+	}
+		header img h4 {
+		text-align:right;
+		}
+   
+	
+	
+nav {
+ width:100%;
+    height:70px;
+	background:pink;
+	position:sticky;
+	top:0px;
+	background-color:black;
+	border-radius:50px;
+	
+	}
+	nav ol li{
+	display:inline-block;
+	font-weight:bold;
+	width:200px;
+	
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	color:black;
+	
+	}
+	nav ol li:hover{
+	background-color:#575757;
+	cursor:pointer;
+	border-radius:25px;
+	}
+	#section7 {
+		width:100%;
+		height:380px;
+	}
+	#section7 img {
+	width:100%;
+	height:380px;
+	background-image:url(centre.jpg);
+	}
+	#section7 h1 {
+		color:blue;
+		margin-top:0px;
+		margin-bottom:0px;
+		position:absolute;
+		top:320px;
+		right:50px;
+	}
+	#section2 {
+	width:100%;
+	height:150px;
+	<!border-bottom:1px solid red;
+	text-align:center;
+	color:white;
+	font-size:30px;
+	background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.9);
+	}
+ pre{
+	text-align:center;
+	font-size:25px;
+ }
+	
+	#section1 {
+	width:100%;
+	height:380px;
+	<!border-bottom:1px solid red;
+    text-align:center;
+	text-width:20px;
+	<!background-image:url(arunait.jpeg);
+	<!background-size:100% 100%;
+
+	}
+	#section1 img {
+		width:30%;
+		height:340px;
+border-top:20px solid orange;
+border-bottom:20px solid orange;
+border-left:20px solid orange;
+border-right:20px solid orange;
+border-radius:50%;
+	}
+	
+	
+	
+		#section3 {
+	width:100%;
+	height:150px;
+	<!border-bottom:1px solid red;
+	background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.9);
+	}
+		#section3 {
+	width:100%;
+	height:150px;
+	<!border-bottom:1px solid red;
+	text-align:center;
+	color:white;
+	font-size:20px;
+	
+	}
+	#section3 p{
+		letter-spacing:3px;
+		word-spacing:12px;
+		font-size:30px;
+		margin-top:0px;
+}
+	#section3 h6{
+		letter-spacing:3px;
+		word-spacing:12px;
+		font-size:30px;
+		margin-top:0px;
+		margin-bottom:10px;
+	
+
+	}
+		#section4 {
+	width:100%;
+	height:150px;
+	<!border-bottom:1px solid red;
+	text-align:center;
+	font-size:30px;
+	background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.9);
+	}
+	#section4 h4 {
+	text-align:center;
+	margin-top:0px;
+	
+	font-size:20px;
+	}
+	#section4 p{
+		font-family:bold;
+		font-size:25px;
+		text-transform:capitalize;
+		color:pink;
+	}
+	#section5 {
+		width:100%;
+		height:450px;
+		<!border-bottom:2px solid white;
+		display:flex;
+		background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.7);
+	<!border:10px solid pink;
+		<!border-radius:50px;
+	}
+	#tamil {
+		width:50%;
+		height:400px;
+		<!border-right:1px solid black;
+		border:10px outset black;
+		border-radius:50px;
+		padding-left:120px;
+		padding-top:20px;
+		
+	}
+	#tamil img {
+		width:60%;
+		height:250px;
+		margin:auto;
+	
+		border:10px solid pink;
+		border-radius:50%;
+	}
+	#section5 h3{
+		text-align:left;
+	padding-left:40px;
+	}
+	#section5 p{
+		
+		padding-left:50px;
+		font-size:20px;
+	}
+	#english {
+		
+		<!border-right:1px solid black;
+		width:50%;
+		height:400px;
+		<!border-right:1px soli black;
+	border:10px outset black;
+		border-radius:50px;
+		padding-left:120px;
+		padding-top:20px;
+	}
+	
+	#english img {
+		
+		width:60%;
+		height:250px;
+		margin:auto;
+		border:10px solid pink;
+		border-radius:50%;
+	}
+	#section6 {
+		width:100%;
+		height:450px;
+		<!border-bottom:1px solid blue;
+		display:flex;
+		background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.7);
+	}
+	#maths {
+		width:50%;
+		height:400px;
+		<!border-right:1px solid white;
+		border:10px outset black;
+		border-radius:50px;
+		padding-left:120px;
+		padding-top:20px;
+	}
+	#maths img {
+		width:60%;
+		height:250px;
+		margin:auto;
+	
+		border:10px solid pink;
+		border-radius:50%;
+	}
+	#section6 h3{
+		text-align:left;
+		padding-left:40px;
+	}
+	#section6 p{
+		padding-left:50px;
+		font-size:20px;
+	}
+	#science {
+		width:50%;
+		height:400px;
+		<!border-right:1px soli black;
+	border:10px outset black;
+		border-radius:50px;
+		padding-left:120px;
+		padding-top:20px;
+	}
+	
+	#science img {
+		
+		width:60%;
+		height:250px;
+		margin:auto;
+		border:10px solid pink;
+		border-radius:50%;
+		outline:20px ;
+	}
+	
+	#nila {
+	width:100%;
+	height:30px;
+	<!border-bottom: 1px solid red;
+	background-color:rgb(255,174,200);
+	background-color:rgba(0,0,0,0.9);
+	}
+  #nila marquee{
+	  
+	color:violet;
+	font-size:28px;
+	font-family:bold;
+	word-spacing:10px;
+	letter-spacing:2px;
+	text-transform:uppercase;
+
+	}
+#van {
+	background-color:blue;
+	background-color:rgba(0,0,0,0.7);
+width:100%;
+height:200px;
+}
+#van pre {
+	margin-top:20px;
+}
+	mark {
+		color:black;
+	}
+	
