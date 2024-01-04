@@ -1,6 +1,6 @@
 body {
 	width:95%;
-	background-image:url(4.jpg);
+	background-image:url(C:\Users\91934\accord\Notepad++\4.jpg);
 
 background-size:100% 100%;
 background-repeat:no-repeat;
@@ -9,7 +9,7 @@ color:pink;
 margin:auto;
 }
 #con {
-	background-image:url(backgroundimagejpg);
+	background-image:url(C:\Users\91934\accord\Notepad++\backgroundimagejpg);
 }
 	
 *{
@@ -79,7 +79,7 @@ nav {
 	#section7 img {
 	width:100%;
 	height:380px;
-	background-image:url(centre.jpg);
+	background-image:url(C:\Users\91934\accord\Notepad++\centre.jpg);
 	}
 	#section7 h1 {
 		color:blue;
@@ -110,7 +110,7 @@ nav {
 	<!border-bottom:1px solid red;
     text-align:center;
 	text-width:20px;
-	<!background-image:url(arunait.jpeg);
+	<!background-image:url(C:\Users\91934\accord\Notepad++\arunait.jpeg);
 	<!background-size:100% 100%;
 
 	}
